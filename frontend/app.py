@@ -54,8 +54,8 @@ st.markdown(
     .stButton>button:hover {background-color:#357ABD; color:white;}
     .stTextInput>div>div>input {border-radius:8px; padding:0.5rem;}
     .chat-box {background-color:#F5F7FA; padding:1rem; border-radius:10px; max-height:400px; overflow-y:auto;}
-    .user-msg {background-color:#D1E8FF; padding:0.5rem 1rem; border-radius:10px; margin-bottom:0.5rem;}
-    .bot-msg {background-color:#E2F0D9; padding:0.5rem 1rem; border-radius:10px; margin-bottom:0.5rem;}
+    .user-msg {background-color:#141517; padding:0.5rem 1rem; border-radius:10px; margin-bottom:0.5rem;}
+    .bot-msg {background-color:#141517; padding:0.5rem 1rem; border-radius:10px; margin-bottom:0.5rem;}
     .header {background-color:#4A90E2; color:white; padding:1rem; border-radius:10px; text-align:center; font-size:1.5rem;}
     </style>
     """,
