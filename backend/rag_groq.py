@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from groq import Groq
+import streamlit as st
 
 # Load .env variables
 load_dotenv()
