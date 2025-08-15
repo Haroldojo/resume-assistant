@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from groq import Groq
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-
+import streamlit as st
 # Load environment variables
 load_dotenv()
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
