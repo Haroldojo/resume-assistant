@@ -19,9 +19,9 @@ from rag_groq import rag_query_refined
 # Load environment
 # ---------------------------
 load_dotenv()
-groq_api_key = st.secrets["GROQ"]["api_key"]
-chroma_path = st.secrets["PATHS"]["chroma_dir"]
-resume_pdf_path = st.secrets["PATHS"]["resume_pdf"]
+groq_api_key = st.secrets["GROQ_API_KEY"]
+chroma_path = st.secrets["CHROMA_DIR"]
+resume_pdf_path = st.secrets["RESUME_PDF"]
 client = Groq(api_key=GROQ_API_KEY)
 # ---------------------------
 # Load resume text
