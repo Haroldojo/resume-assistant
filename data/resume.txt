@@ -1,0 +1,46 @@
+Parul Verma
+parulvermaece@gmail.com
+—
++91-7018629294
+linkedin.com/in/parul-verma
+—
+github.com/Haroldojo
+SUMMARY
+Fresher backend developer with hands-on experience in Python API development and Microsoft Azure. Skilled
+in building scalable REST APIs, integrating cloud services, and contributing to real-time GenAI projects. Strong
+grasp of modern development tools and agile collaboration.
+TECHNICAL SKILLS
+Languages: Python, JavaScript
+Frameworks: FastAPI, Flask, Node.js, Django, Express.js
+CMS/Tools: Strapi, Streamlit
+Cloud: Azure Functions
+Databases: Azure SQL,postgres, chromadb
+DevOps: Docker, Git, Postman,
+Monitoring: Azure Monitor
+OS: Ubuntu/Linux
+PROJECTS
+• Seekrs.ai – GenAI search bar (Gemini + FastAPI) hosted on Azure.
+• Scoop Q&A Game – Real-time multiplayer trivia app using WebSockets [App Link].
+• Thomascook CMS – Content system in Strapi, reduced update time by 40
+• Doc Q&A – Ollama + Mistral-powered document assistant.
+• Reusable API Templates – Built dynamic backend modules for freelance clients.
+EXPERIENCE
+Backend Developer Intern
+TunicaTech (Remote)
+Dec 2023 – Jun 2024
+• Created REST APIs with Python (FastAPI/Flask) and Node.js for 10K+ daily users.
+• Deployed cloud workloads using Azure App Services and Key Vault for secrets.
+• Integrated Azure Logic Apps and Functions to automate workflows.
+• Added JWT auth, rate limiting, and observability via Azure Monitor.
+EDUCATION
+B.Tech in Electronics and Communication Engineering
+JNGEC, Sundernagar
+CGPA: 7.69
+2020–2024
+CERTIFICATIONS
+• Cisco – Introduction to Data Science (2024)
+• Simplilearn – Kubernetes (Code: 8435135)
+• Workera – Data Analyst Core I
+EXTRAS
+• Strong score in TCS NQT (Cognitive + Technical).
+• Hobbies: Shooting, Fitness,
