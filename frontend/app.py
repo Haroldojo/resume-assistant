@@ -22,7 +22,7 @@ load_dotenv()
 groq_api_key = st.secrets["GROQ_API_KEY"]
 chroma_path = st.secrets["CHROMA_DIR"]
 resume_pdf_path = st.secrets["RESUME_PDF"]
-client = Groq(api_key=GROQ_API_KEY)
+client = Groq(api_key=groq_api_key)
 # ---------------------------
 # Load resume text
 # ---------------------------
