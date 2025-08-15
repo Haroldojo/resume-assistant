@@ -22,6 +22,8 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
+CHROMA_DIR = os.getenv("CHROMA_DIR", "./data/chroma")
+RESUME_PDF = os.getenv("RESUME_PDF", "./data/Parul_resume.pdf")
 # ---------------------------
 # Load resume text
 # ---------------------------
